@@ -1,3 +1,3 @@
 /**
- * Archivo de SABDIEL
+ * Archivo de SABDIEL calificado xd
  */
